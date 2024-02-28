@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    font-family: sans-serif;
+    background: black;
+    background-image: url('https: //source .unplash .com/ 1600ex1900/?landscape');
+    color:white;
+}
