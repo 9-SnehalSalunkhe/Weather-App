@@ -9,6 +9,10 @@ body {
     margin: 0;
     background: #222;
     background-image: url('https://source.unsplash.com/1600x900/?landscape');
+    /* because there are issues regarding server images are not fetching so i've included default image*/
+    background-image: url('./image/city.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
     font-size: 120%;
   }
   
